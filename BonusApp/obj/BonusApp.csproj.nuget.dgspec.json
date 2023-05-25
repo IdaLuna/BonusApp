@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Code\\BonusApp\\BonusApp\\BonusApp.csproj": {}
+    "S:\\hjemmeprojekter\\BonusApp\\BonusApp\\BonusApp.csproj": {}
   },
   "projects": {
-    "S:\\Code\\BonusApp\\BonusApp\\BonusApp.csproj": {
+    "S:\\hjemmeprojekter\\BonusApp\\BonusApp\\BonusApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Code\\BonusApp\\BonusApp\\BonusApp.csproj",
+        "projectUniqueName": "S:\\hjemmeprojekter\\BonusApp\\BonusApp\\BonusApp.csproj",
         "projectName": "BonusApp",
-        "projectPath": "S:\\Code\\BonusApp\\BonusApp\\BonusApp.csproj",
+        "projectPath": "S:\\hjemmeprojekter\\BonusApp\\BonusApp\\BonusApp.csproj",
         "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-        "outputPath": "S:\\Code\\BonusApp\\BonusApp\\obj\\",
+        "outputPath": "S:\\hjemmeprojekter\\BonusApp\\BonusApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
